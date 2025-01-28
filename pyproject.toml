@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "discogs_rpa"
+version = "0.1.0"
+description = "Discogs RPA Artist and Sounds Project"
+authors = ["Heitor Verani <heitorverani.work@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.13"
+selenium = "^4.28.1"
+logging = "^0.4.9.6"
+webdriver-manager = "^4.0.2"
+setuptools = "^75.8.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
