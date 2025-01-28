@@ -35,7 +35,8 @@ The Discogs RPA allows the collection of data about Artists, Albums, and Songs f
     ```bash
     python main.py
     ```
-2. If desired, you can change the parameters in main.py
+2. The errors in the no_such_element_errors.log file are expected; unexpected errors are in the general_errors.log file.
+3. If desired, you can change the parameters in main.py
 
 ## parameters
     ```markdown
