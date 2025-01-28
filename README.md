@@ -14,7 +14,7 @@ The Discogs RPA allows the collection of data about Artists, Albums, and Songs f
     ```
 2. Navigate to the project directory:
     ```bash
-    cd discogs_rpa
+    cd Discogs-RPA
     ```
 3. Create the virtual environment:
     ```bash
